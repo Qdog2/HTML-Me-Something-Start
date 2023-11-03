@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+h1 {
+    border-style: solid;
+    border-color: red
+    }
+h2 {
+    border-style: solid;
+    border-color: deeppink;
+    }   
+h3{
+    border-style: solid;
+    border-color: turquoise
+}
+body {
+    margin: 8px;
+    display: block;
+}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  #mainHeading {
+    font-style: oblique;
+    color: red;
+  }
+
+  #testp {
+    border-style: dotted;
+    border-color: rgb(201, 75, 255);
+  }
+
+  p.funParagraph {
+    font-style: italic;
+    color: green;
+  }
