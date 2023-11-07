@@ -28,11 +28,11 @@ p {
   }
 
   #testp {
-    border-style: dotted;
+    border-style: solid;
     border-color: rgb(201, 75, 255);
   }
 
-  p.funParagraph {
+  .funParagraph {
     font-style: italic;
     color: green;
   }
